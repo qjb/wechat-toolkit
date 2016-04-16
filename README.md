@@ -1,3 +1,15 @@
+wechat-toolkit是一个挺不错的nodejs的接口库，只是我们在使用的时候发现有一些功能不太方便，于是就fork了一下，主要更改的功能包括：
+＃添加jsapi的signature功能
+＃添加了对scancode_push和scancode_waitmsg的支持
+
+
+谢谢原作者提供的这么好的模块！
+https://github.com/kyfxbl/wechat-toolkit
+
+
+
+下面内容来自原来的项目：
+
 wechat-toolkit
 ==============
 微信公众平台开发SDK，用于node平台，需要配合express使用
